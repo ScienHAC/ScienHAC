@@ -68,4 +68,21 @@ Here are the tools and languages I work with:
   <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="NumPy" width="40">
   <img src="https://cdn-icons-png.flaticon.com/512/874/874371.png" alt="Arduino" width="40">
   <img src="https://cdn-icons-png.flaticon.com/512/843/843320.png" alt="Kali Linux" width="40">
-  <img src="https://cdn-icons-png.flaticon.com/512/
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="PowerBI" width="40">
+</div>
+
+<img src="https://s11.gifyu.com/images/SAf92.gif" alt="Tech GIF" width="200" align="center" style="filter: hue-rotate(0deg); margin-top: 20px;">
+
+---
+
+### 🧠 Beyond Coding:
+I'm passionate about exploring **quantum physics**, **advanced calculus**, **statistical problems**, and **renewable energy**. Whether it's delving into quantum chemistry or working on hydrogen cells, I'm excited to contribute to the future of energy and technology.
+
+---
+
+### 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ScienHAC&show_icons=true&theme=radical" alt="Piyush's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScienHAC&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://raw.githubusercontent.com/mayanksharma27/mayanksharma27/master/assets/dragon.gif" alt="Kali Dragon" style="width: 100px; filter: hue-rotate(0deg);">
+</div>
