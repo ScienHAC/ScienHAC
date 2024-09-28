@@ -11,13 +11,13 @@
 
 <div style="display: flex; justify-content: center; align-items: flex-start; margin-top: -204px;">
   <div style="flex: 1; display: flex; flex-direction: column; align-items: flex-start;">
-    <img src="https://s11.gifyu.com/images/SAfTj.gif" alt="Dragon GIF" width="200" style="filter: hue-rotate(0deg);">
+    <img src="https://s11.gifyu.com/images/SAfTj.gif" alt="Dragon GIF" width="200" style="filter: hue-rotate(0deg);" style="margin-top: -204px">
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
   </div>
 </div>
 </div>
----
+
 
 ### 🌟 About Me:
 <div style="display: flex; justify-content: space-between; align-items: flex-start;display: inline-block;">
@@ -33,7 +33,7 @@
   </div>
 </div>
 
----
+
 
 ### 🔗 My Digital Space:
 Find me across various platforms! Click the icons below:
