@@ -1,4 +1,3 @@
-<head><style></style></head>
 <div align="center">
   <h1>👋 Hi there, I'm Piyush!</h1>
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Hi" width="50">
@@ -11,7 +10,7 @@
 </div>
 
 <div style="display: flex; justify-content: center; align-items: flex-start; margin-top: -204px;">
-  <div style="flex: 1; display: flex; flex-direction: column; align-items: flex-start; margin-top: -204px">
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: flex-start; margin-top: -204px !important">
     <img src="https://s11.gifyu.com/images/SAfTj.gif" alt="Dragon GIF" width="200" style="filter: hue-rotate(0deg);margin-top: -204px !important;">
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
