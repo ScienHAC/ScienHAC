@@ -66,9 +66,9 @@ Here are the tools and languages I work with:
   <img src="https://cdn-icons-png.flaticon.com/512/843/843320.png" alt="Kali Linux" width="40">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="PowerBI" width="40">
 </div>
-
+<div align="center">
 <img src="https://s11.gifyu.com/images/SAf92.gif" alt="Tech GIF" width="200" align="center" style="filter: hue-rotate(0deg); margin-top: 20px;">
-
+</div>
 ---
 
 ### 🧠 Beyond Coding:
