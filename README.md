@@ -12,8 +12,6 @@
 </div>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-
-
 ---
 
 ### 🌟 About Me:
@@ -72,7 +70,6 @@ Here are the tools and languages I work with:
 <img src="https://s11.gifyu.com/images/SAf92.gif" alt="Tech GIF" width="200" align="center" style="filter: hue-rotate(0deg); margin-top: 20px;">
 </div>
 
-
 ---
 
 ### 🧠 Beyond Coding:
@@ -85,6 +82,14 @@ I'm passionate about exploring **quantum physics**, **advanced calculus**, **sta
   <img src="https://github-readme-stats.vercel.app/api?username=ScienHAC&show_icons=true&theme=radical" alt="Piyush's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScienHAC&layout=compact&theme=radical" alt="Top Languages">
   <img src="https://raw.githubusercontent.com/mayanksharma27/mayanksharma27/master/assets/dragon.gif" alt="Kali Dragon" style="width: 100px; filter: hue-rotate(0deg);">
+</div>
+
+---
+
+### 🌟 Additional Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ScienHAC&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ScienHAC&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
