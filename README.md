@@ -71,6 +71,8 @@ Here are the tools and languages I work with:
 <div align="center">
 <img src="https://s11.gifyu.com/images/SAf92.gif" alt="Tech GIF" width="200" align="center" style="filter: hue-rotate(0deg); margin-top: 20px;">
 </div>
+
+
 ---
 
 ### 🧠 Beyond Coding:
