@@ -14,9 +14,6 @@
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
   </div>
-  <div style="flex: 1; display: flex; flex-direction: column; align-items: flex-end;">
-    <img src="https://s11.gifyu.com/images/SAfkb.gif" alt="Coder GIF" width="200" style="filter: hue-rotate(0deg);">
-  </div>
 </div>
 
 ---
