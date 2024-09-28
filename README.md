@@ -1,7 +1,7 @@
 <div align="center">
   <h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Hi" width="50"> Hi there, I'm Piyush!</h1>
-  <h2>✨ Welcome to the ScienHAC GitHub Dashboard! ✨</h2>
 </div>
+  ###✨ Welcome to the ScienHAC GitHub Dashboard! ✨ 
 <br/><br/><br/>
   <p align="right"><strong> <<///>> Where creativity meets technology!</strong></p>
 
@@ -19,7 +19,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="flex: 2; text-align: left;">
     👋 **Hello, I'm Piyush!** Currently pursuing a B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning.
-
+    
     - 🎯 **Passion for Technology**: Love working with C++, Java, TensorFlow, and blockchain technologies.  
     - 💻 **Developer at Heart**: Full-stack software development, API integrations, AI models, and DSA are my domains.
     - 📚 **Eager Learner**: Intrigued by physics, electronics, and exploring renewable energy solutions.
