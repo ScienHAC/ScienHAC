@@ -3,9 +3,7 @@
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Hi" width="50">
   <h2>✨ Welcome to the ScienHAC GitHub Dashboard! ✨</h2>
   <p><strong>Where creativity meets technology!</strong></p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=700&lines=%F0%9F%91%8B+Hey+there%2C+fellow+developers!;🚀+Join+me+on+an+exciting+journey+of+coding+and+innovation!;💡+Let's+explore+Machine+Learning%2C+Web+Development%2C+Ethical+Hacking%2C+and+more!😊" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=610&lines=%F0%9F%91%8B+Hey+there%2C+fellow+developers!;%F0%9F%9A%80+Greetings%2C+explorers+of+innovation!;%F0%9F%8C%9F+Welcome+aboard+to+the+ScienHAC+GitHub+Dashboard!;%E2%9C%A8+Step+into+a+world+of+endless+possibilities!" alt="Typing SVG" /></a>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: flex-start; margin-top: 20px;">
@@ -26,7 +24,7 @@
     - 📚 **Eager Learner**: Intrigued by physics, electronics, and exploring renewable energy solutions.
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="https://s11.gifyu.com/images/SAfkb.gif" alt="About Me GIF" width="200" style="filter: hue-rotate(0deg);">
+    <img src="https://s11.gifyu.com/images/SAfkb.gif" alt="About Me GIF" width="200" align="right" style="filter: hue-rotate(0deg);">
   </div>
 </div>
 
