@@ -67,8 +67,8 @@ Here are the tools and languages I work with:
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Pandas" width="40">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="NumPy" width="40">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40">
-  <img src="https://w7.pngwing.com/pngs/540/279/png-transparent-raspberry-pi-foundation-raspberry-pi-3-raspbian-the-magpi-raspberry-pi-logo-magenta-arduino-thumbnail.png" alt="Respberry pi" width="40">
-  <img src="https://img.icons8.com/?size=256&id=101665&format=png" alt="Kali Linux" width="40">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919855.png" alt="Respberry pi" width="40">
+  <img src="https://img.icons8.com/?size=256&id=101665&format=png" alt="Kali Linux" width="45">
 </div>
 <div align="center">
 <img src="https://s11.gifyu.com/images/SAf92.gif" alt="Tech GIF" width="200" style="filter: hue-rotate(0deg); margin-top: 20px;">
