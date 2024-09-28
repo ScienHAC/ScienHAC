@@ -10,8 +10,8 @@
 </div>
 
 <div style="display: flex; justify-content: center; align-items: flex-start; margin-top: -204px;">
-  <div style="flex: 1; display: flex; flex-direction: column; align-items: flex-start;">
-    <img src="https://s11.gifyu.com/images/SAfTj.gif" alt="Dragon GIF" width="201" style="filter: hue-rotate(0deg);" style="margin-top: -204px">
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: flex-start; margin-top: -204px">
+    <img src="https://s11.gifyu.com/images/SAfTj.gif" alt="Dragon GIF" width="200" style="filter: hue-rotate(0deg);margin-top: -204px;">
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
   </div>
