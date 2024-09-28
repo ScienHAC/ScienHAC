@@ -16,7 +16,7 @@
     <img src="https://s11.gifyu.com/images/SAf92.gif" alt="Dragon GIF" width="200" style="filter: hue-rotate(0deg);">
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; align-items: flex-start;">
-    <img src="https://i.gifer.com/origin/2f/2f967b6e1ea75a36f625385136a300a1_w200.gif" alt="Coder GIF" width="200" style="filter: hue-rotate(0deg);">
+    <img src="https://s11.gifyu.com/images/SAfkb.gif" alt="Coder GIF" width="200" style="filter: hue-rotate(0deg);">
   </div>
 </div>
 
