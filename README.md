@@ -1,18 +1,33 @@
 <div align="center">
-  <h1>👋 Hello, I'm Piyush!</h1>
+  <h1>👋 Hi there, I'm Piyush!</h1>
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Hi" width="50">
-  <p><strong>Welcome to ScienHAC</strong></p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=%F0%9F%91%8B+Hey+there%2C+fellow+developers!;%F0%9F%9A%80+Greetings%2C+explorers+of+innovation!;%F0%9F%8C%9F+Welcome+aboard+to+the+ScienHAC+GitHub+Dashboard%E2%80%94where+ideas+come+to+life!;%E2%9C%A8+Step+into+a+world+of+endless+possibilities!" alt="Typing SVG" /></a>
+  <h2>✨ Welcome to the ScienHAC GitHub Dashboard! ✨</h2>
+  <p><strong>Where creativity meets technology!</strong></p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=700&lines=%F0%9F%91%8B+Hey+there%2C+fellow+developers!;🚀+Join+me+on+an+exciting+journey+of+coding+and+innovation!;💡+Let's+explore+Machine+Learning%2C+Web+Development%2C+Ethical+Hacking%2C+and+more!😊" alt="Typing SVG" />
+  </a>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: flex-start;">
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: flex-end;">
+    <img src="https://s11.gifyu.com/images/SAfTj.gif" alt="Dragon GIF" width="200" style="filter: hue-rotate(0deg);">
+  </div>
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
+    <img src="https://s11.gifyu.com/images/SAf92.gif" alt="Dragon GIF" width="200" style="filter: hue-rotate(0deg);">
+  </div>
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: flex-start;">
+    <img src="https://i.gifer.com/origin/2f/2f967b6e1ea75a36f625385136a300a1_w200.gif" alt="Coder GIF" width="200" style="filter: hue-rotate(0deg);">
+  </div>
 </div>
 
 ---
 
 ### 🌟 About Me:
-👋 Hello, I'm Piyush! Currently pursuing a B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning.
+👋 **Hello, I'm Piyush!** Currently pursuing a B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning.
 
 - 🎯 **Passion for Technology**: Love working with C++, Java, TensorFlow, and blockchain technologies.  
 - 💻 **Developer at Heart**: Full-stack software development, API integrations, AI models, and DSA are my domains.
-- 📚 **Eager Learner**: Also intrigued by physics, electronics, and exploring renewable energy solutions.
+- 📚 **Eager Learner**: Intrigued by physics, electronics, and exploring renewable energy solutions.
 
 ---
 
@@ -61,12 +76,12 @@ I'm passionate about exploring **quantum physics**, **advanced calculus**, **sta
 ---
 
 ### 📊 GitHub Stats:
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ScienHAC&show_icons=true&theme=radical" alt="Piyush's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScienHAC&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://raw.githubusercontent.com/mayanksharma27/mayanksharma27/master/assets/dragon.gif" alt="Kali Dragon" style="width: 100px; filter: hue-rotate(0deg);">
 </div>
-<div align="right">
-  <img src="https://i0.wp.com/www.hackersdemocracy.com/wp-content/uploads/2022/11/boot-kali.gif?resize=200%2C356&ssl=1" alt="Kali Dragon" width="200" style="filter: hue-rotate(180deg);">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*kbUTNQ5Pw-esY0-8yjb8JQ.gif" alt="Coder GIF" width="200">
-  <img src="https://gifyu.com/image/SAfz7" alt="Additional GIF" width="200">
-</div>
+
+---
+
+<!-- Add interactive section here -->
