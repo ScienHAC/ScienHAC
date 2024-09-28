@@ -10,15 +10,7 @@
 
 <div style="display: flex; justify-content: center; align-items: flex-start; margin-top: 20px;">
   <div style="flex: 1; display: flex; flex-direction: column; align-items: flex-start;">
-    <img src="https://s11.gifyu.com/images/SAfTj.gif" alt="Dragon GIF" width="200" style="filter: hue-rotate(0deg);">
-  </div>
-  <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=700&lines=%F0%9F%91%8B+Hey+there%2C+fellow+developers!;🚀+Join+me+on+an+exciting+journey+of+coding+and+innovation!;💡+Let's+explore+Machine+Learning%2C+Web+Development%2C+Ethical+Hacking%2C+and+more!😊" alt="Typing SVG" />
-    </a>
-  </div>
-  <div style="flex: 1; display: flex; flex-direction: column; align-items: flex-end;">
-    <img src="https://s11.gifyu.com/images/SAfkb.gif" alt="Coder GIF" width="200" style="filter: hue-rotate(0deg);">
+    <img src="https://s11.gifyu.com/images/SAfTj.gif" alt="Dragon GIF" width="200" align="right" style="filter: hue-rotate(0deg);">
   </div>
 </div>
 
@@ -77,7 +69,7 @@ Here are the tools and languages I work with:
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="PowerBI" width="40">
 </div>
 
-<img src="https://s11.gifyu.com/images/SAf92.gif" alt="Tech GIF" width="200" style="filter: hue-rotate(0deg); margin-top: 20px;">
+<img src="https://s11.gifyu.com/images/SAf92.gif" alt="Tech GIF" width="200" align="center" style="filter: hue-rotate(0deg); margin-top: 20px;">
 
 ---
 
