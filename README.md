@@ -64,7 +64,7 @@ Here are the tools and languages I work with:
   <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" alt="PostgreSQL" width="40">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="MySQL" width="40">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" alt="TensorFlow" width="40">
-  <img src="https://miro.medium.com/v2/resize:fit:366/1*uyUj__HJekKIkx58kMxlcA.png" alt="Pandas" width="40" style="border-radius: 50%;">
+  <img src="https://miro.medium.com/v2/resize:fit:366/1*uyUj__HJekKIkx58kMxlcA.png" alt="Pandas" width="40" style="border-radius: 15px;">
   <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="40">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919855.png" alt="Respberry pi" width="40">
