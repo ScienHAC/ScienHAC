@@ -12,14 +12,9 @@
 </div>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-### 🌟 GitHub Stats:
-<div align="center">
-  <strong>Total Contributions: 35</strong><br>
-  <strong>Current Streak: 0</strong><br>
-  <strong>Longest Streak: 2</strong><br>
-  <small>Dec 2, 2021 - Present</small><br>
-  <small>Jan 17, 2023 - Jan 18, 2023</small>
-</div>
+
+
+---
 
 ### 🌟 About Me:
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
@@ -35,17 +30,19 @@
   </div>
 </div>
 
+---
+
 ### 🔗 My Digital Space:
 Find me across various platforms! Click the icons below:
 
-<div align="center">
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40">](https://github.com/ScienHAC/Piyush_space)
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40">](https://www.linkedin.com/in/piyush-078455221/)
 [<img src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png" alt="X" width="40">](https://x.com/scienhac)
 [<img src="https://1.bp.blogspot.com/-Hl2LdQb7ReM/Yant6IP37hI/AAAAAAAAAbo/vxaKHKIPI_ktlPZ4Hh4IozhQnz-CdL6zwCNcBGAsYHQ/s960/Scienhac_logo_favicon.png" alt="Website" width="40">](https://scienhac.blogspot.com/)
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40">](https://www.instagram.com/scienhac)
 [<img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" alt="YouTube" width="40">](https://www.youtube.com/@scienhac)
-</div>
+
+---
 
 ### 🛠️ Tech Toolbox:
 Here are the tools and languages I work with:
@@ -75,8 +72,13 @@ Here are the tools and languages I work with:
 <img src="https://s11.gifyu.com/images/SAf92.gif" alt="Tech GIF" width="200" align="center" style="filter: hue-rotate(0deg); margin-top: 20px;">
 </div>
 
+
+---
+
 ### 🧠 Beyond Coding:
 I'm passionate about exploring **quantum physics**, **advanced calculus**, **statistical problems**, and **renewable energy**. Whether it's delving into quantum chemistry or working on hydrogen cells, I'm excited to contribute to the future of energy and technology.
+
+---
 
 ### 📊 GitHub Stats:
 <div align="center">
@@ -84,3 +86,7 @@ I'm passionate about exploring **quantum physics**, **advanced calculus**, **sta
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScienHAC&layout=compact&theme=radical" alt="Top Languages">
   <img src="https://raw.githubusercontent.com/mayanksharma27/mayanksharma27/master/assets/dragon.gif" alt="Kali Dragon" style="width: 100px; filter: hue-rotate(0deg);">
 </div>
+
+---
+
+<!-- Add interactive section here -->
