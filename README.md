@@ -63,7 +63,7 @@ Here are the tools and languages I work with:
   <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="NodeJS" width="40">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" alt="PostgreSQL" width="40">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="MySQL" width="40">
-  <img src="https://w7.pngwing.com/pngs/171/176/png-transparent-tensorflow-artificial-intelligence-brand-logo-learning-flow-description-angle-text-orange-thumbnail.png" alt="TensorFlow" width="40">
+  <img src="https://numlabs.com/static/img/icons/TF.png" alt="TensorFlow" width="40">
   <img src="https://i.imghippo.com/files/NoWh11727523269.png" alt="Pandas" width="40" style="border-radius: 15px;">
   <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="40">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40">
