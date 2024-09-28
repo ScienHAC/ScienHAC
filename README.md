@@ -19,7 +19,7 @@
 ---
 
 ### 🌟 About Me:
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;display: inline-block;">
   <div style="flex: 2; text-align: left;">
     👋 Hello, I'm Piyush! Currently pursuing a B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning.
     
