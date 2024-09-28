@@ -5,8 +5,8 @@
   <p><strong>Where creativity meets technology!</strong></p>
 </div>
 <div style="display: inline-block;">
-<div align="centre">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=%F0%9F%91%8B+Hey+there%2C+fellow+developers!;%F0%9F%9A%80+Greetings%2C+explorers+of+innovation!;%F0%9F%8C%9F+Welcome+aboard+to+the+ScienHAC+GitHub+Dashboard!;%E2%9C%A8+Step+into+a+world+of+endless+possibilities!" alt="Typing SVG" /></a>
+<div align="right">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=610&lines=%F0%9F%91%8B+Hey+there%2C+fellow+developers!;%F0%9F%9A%80+Greetings%2C+explorers+of+innovation!;%F0%9F%8C%9F+Welcome+aboard+to+the+ScienHAC+GitHub+Dashboard!;%E2%9C%A8+Step+into+a+world+of+endless+possibilities!" alt="Typing SVG" /></a>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: flex-start; margin-top: -204px;">
