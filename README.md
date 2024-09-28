@@ -3,6 +3,7 @@
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Hi" width="50">
   ##✨ Welcome to the ScienHAC GitHub Dashboard! ✨
 </div>
+##hello
   <p align="right"><strong> <<///>> Where creativity meets technology!</strong></p>
 
 
