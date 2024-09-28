@@ -1,6 +1,5 @@
 <div align="center">
   <h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Hi" width="50"> Hi there, I'm Piyush!</h1>
-  
   <h2>✨ Welcome to the ScienHAC GitHub Dashboard! ✨</h2>
 </div>
 <br/><br/><br/>
