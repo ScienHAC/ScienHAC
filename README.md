@@ -27,7 +27,7 @@
     - 💻 #Developer at Heart: Full-stack software development, API integrations, AI models, and DSA are my domains.
     - 📚 #Eager Learner: Intrigued by physics, electronics, and exploring renewable energy solutions.
   </div>
-  <div style="flex: 1; text-align: right;">
+  <div style="flex: 1; text-align: right;" align="right">
     <img src="https://s11.gifyu.com/images/SAfkb.gif" alt="About Me GIF" width="200" style="filter: hue-rotate(0deg);">
   </div>
 </div>
