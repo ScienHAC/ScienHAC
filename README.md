@@ -1,26 +1,9 @@
-<!-- Adding Typed.js for typing effect -->
-<script src="https://s3.amazonaws.com/myadvobuck/static/libs/typed.min.js"></script>
-
 <div align="center">
   <h1>👋 Hello, I'm Piyush!</h1>
   <img src="https://user-images.githubusercontent.com/hand_wave.gif" alt="Hi" width="50">
-  <p id="typed"></p>
+  <p><strong>Welcome to ScienHAC</strong></p>
+  <p>Learn coding, Machine Learning, Web Development, Ethical Hacking, and other awesome useful content! 😊</p>
 </div>
-
-<!-- Type.js typing animation -->
-<script>
-  var typed = new Typed("#typed", {
-    strings: ["Welcome to ScienHAC", 
-              "Learn coding", 
-              "Machine Learning", 
-              "Web Development", 
-              "Ethical Hacking", 
-              "and other awesome useful content :)"],
-    typeSpeed: 50,
-    backSpeed: 25,
-    loop: true
-  });
-</script>
 
 ---
 
