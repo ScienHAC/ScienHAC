@@ -4,28 +4,34 @@
   <h2>✨ Welcome to the ScienHAC GitHub Dashboard! ✨</h2>
   <p><strong>Where creativity meets technology!</strong></p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=700&lines=%F0%9F%91%8B+Hey+there%2C+fellow+developers!;🚀+Join+me+on+an+exciting+journey+of+coding+and+innovation!;💡+Let's+explore+Machine+Learning%2C+Web+Development%2C+Ethical+Hacking%2C+and+more!😊" alt="Typing SVG" align="right" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=700&lines=%F0%9F%91%8B+Hey+there%2C+fellow+developers!;🚀+Join+me+on+an+exciting+journey+of+coding+and+innovation!;💡+Let's+explore+Machine+Learning%2C+Web+Development%2C+Ethical+Hacking%2C+and+more!😊" alt="Typing SVG" />
   </a>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: flex-start; margin-top: 20px;">
   <div style="flex: 1; display: flex; flex-direction: column; align-items: flex-start;">
-    <img src="https://s11.gifyu.com/images/SAfTj.gif" alt="Dragon GIF" width="200" align="left" style="filter: hue-rotate(0deg);">
+    <img src="https://s11.gifyu.com/images/SAfTj.gif" alt="Dragon GIF" width="200" style="filter: hue-rotate(0deg);">
+  </div>
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=700&lines=%F0%9F%91%8B+Hey+there%2C+fellow+developers!;🚀+Join+me+on+an+exciting+journey+of+coding+and+innovation!;💡+Let's+explore+Machine+Learning%2C+Web+Development%2C+Ethical+Hacking%2C+and+more!😊" alt="Typing SVG" />
+    </a>
+  </div>
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: flex-end;">
+    <img src="https://s11.gifyu.com/images/SAfkb.gif" alt="Coder GIF" width="200" style="filter: hue-rotate(0deg);">
   </div>
 </div>
 
 ---
 
-<p>&nbsp;</p> <!-- Adds vertical space above the "About Me" section -->
-
 ### 🌟 About Me:
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="flex: 2; text-align: left;">
-    <blockquote>👋 Hello, I'm Piyush! Currently pursuing a B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning.</blockquote>
+    👋 **Hello, I'm Piyush!** Currently pursuing a B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning.
 
-    <blockquote>- 🎯 Passion for Technology: Love working with C++, Java, TensorFlow, and blockchain technologies.</blockquote>  
-    <blockquote>- 💻 Developer at Heart: Full-stack software development, API integrations, AI models, and DSA are my domains.</blockquote>
-    <blockquote>- 📚 Eager Learner: Intrigued by physics, electronics, and exploring renewable energy solutions.</blockquote>
+    - 🎯 **Passion for Technology**: Love working with C++, Java, TensorFlow, and blockchain technologies.  
+    - 💻 **Developer at Heart**: Full-stack software development, API integrations, AI models, and DSA are my domains.
+    - 📚 **Eager Learner**: Intrigued by physics, electronics, and exploring renewable energy solutions.
   </div>
   <div style="flex: 1; text-align: right;">
     <img src="https://s11.gifyu.com/images/SAfkb.gif" alt="About Me GIF" width="200" style="filter: hue-rotate(0deg);">
@@ -71,7 +77,7 @@ Here are the tools and languages I work with:
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="PowerBI" width="40">
 </div>
 
-<img src="https://s11.gifyu.com/images/SAf92.gif" alt="Tech GIF" width="200" align="center" style="filter: hue-rotate(0deg); margin-top: 20px;">
+<img src="https://s11.gifyu.com/images/SAf92.gif" alt="Tech GIF" width="200" style="filter: hue-rotate(0deg); margin-top: 20px;">
 
 ---
 
@@ -86,3 +92,7 @@ I'm passionate about exploring **quantum physics**, **advanced calculus**, **sta
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScienHAC&layout=compact&theme=radical" alt="Top Languages">
   <img src="https://raw.githubusercontent.com/mayanksharma27/mayanksharma27/master/assets/dragon.gif" alt="Kali Dragon" style="width: 100px; filter: hue-rotate(0deg);">
 </div>
+
+---
+
+<!-- Add interactive section here -->
