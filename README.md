@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Hi" width="50">
   <h2>✨ Welcome to the ScienHAC GitHub Dashboard! ✨</h2>
 </div>
-  <p align="right"><strong> ..<<//>> Where creativity meets technology!</strong></p>
+  <p align="right"><strong> ..<<///>> Where creativity meets technology!</strong></p>
 
 
   <img src="https://s11.gifyu.com/images/SAfTj.gif" alt="Dragon GIF" width="200" style="filter: hue-rotate(0deg);" align="left">
