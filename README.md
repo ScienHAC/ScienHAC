@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/96d84ed6-69fa-444c-8a9f-2949d1a6822c)<div align="center">
   <h1>👋 Hi there, I'm Piyush!</h1>
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Hi" width="50">
   <h2>✨ Welcome to the ScienHAC GitHub Dashboard! ✨</h2>
@@ -64,8 +64,8 @@ Here are the tools and languages I work with:
   <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" alt="PostgreSQL" width="40">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="MySQL" width="40">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" alt="TensorFlow" width="40">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Pandas" width="40">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="NumPy" width="40">
+  <img src="https://image.pngaaa.com/296/1947296-middle.png" alt="Pandas" width="40">
+  <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="40">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919855.png" alt="Respberry pi" width="40">
   <img src="https://img.icons8.com/?size=256&id=101665&format=png" alt="Kali Linux" width="45">
