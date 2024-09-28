@@ -16,23 +16,23 @@
   </div>
 </div>
 
----
+
 
 ### 🌟 About Me:
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="flex: 2; text-align: left;">
     👋 **Hello, I'm Piyush!** Currently pursuing a B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning.
 
-    - 🎯 **Passion for Technology**: Love working with C++, Java, TensorFlow, and blockchain technologies.  
-    - 💻 **Developer at Heart**: Full-stack software development, API integrations, AI models, and DSA are my domains.
-    - 📚 **Eager Learner**: Intrigued by physics, electronics, and exploring renewable energy solutions.
+    > 🎯 **Passion for Technology**: Love working with C++, Java, TensorFlow, and blockchain technologies.  
+    > 💻 **Developer at Heart**: Full-stack software development, API integrations, AI models, and DSA are my domains.
+    > 📚 **Eager Learner**: Intrigued by physics, electronics, and exploring renewable energy solutions.
   </div>
   <div style="flex: 1; text-align: right;">
     <img src="https://s11.gifyu.com/images/SAfkb.gif" alt="About Me GIF" width="200" style="filter: hue-rotate(0deg);">
   </div>
 </div>
 
----
+
 
 ### 🔗 My Digital Space:
 Find me across various platforms! Click the icons below:
