@@ -71,12 +71,6 @@ I'm passionate about exploring **quantum physics**, **advanced calculus**, **sta
   <img src="https://raw.githubusercontent.com/mayanksharma27/mayanksharma27/master/assets/dragon.gif" alt="Kali Dragon" style="width: 100px; animation: hue-rotate 5s infinite alternate;">
 </div>
 
-<style>
-@keyframes hue-rotate {
-  0% { filter: hue-rotate(0deg); }
-  100% { filter: hue-rotate(360deg); }
-}
-</style>
 
 ---
 
