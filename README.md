@@ -68,4 +68,5 @@ I'm passionate about exploring **quantum physics**, **advanced calculus**, **sta
 <div align="right">
   <img src="https://i0.wp.com/www.hackersdemocracy.com/wp-content/uploads/2022/11/boot-kali.gif?resize=200%2C356&ssl=1" alt="Kali Dragon" width="200" style="filter: hue-rotate(180deg);">
   <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*kbUTNQ5Pw-esY0-8yjb8JQ.gif" alt="Coder GIF" width="200">
+  <img src="https://gifyu.com/image/SAfz7" alt="Additional GIF" width="200">
 </div>
