@@ -35,7 +35,7 @@ Find me across various platforms! Click the icons below:
 
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40">](https://github.com/ScienHAC/Piyush_space)
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40">](https://www.linkedin.com/in/piyush-078455221/)
-[<img src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png" alt="X" width="40">](https://x.com/scienhac)
+[<img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="X" width="40">](https://x.com/scienhac)
 [<img src="https://1.bp.blogspot.com/-Hl2LdQb7ReM/Yant6IP37hI/AAAAAAAAAbo/vxaKHKIPI_ktlPZ4Hh4IozhQnz-CdL6zwCNcBGAsYHQ/s960/Scienhac_logo_favicon.png" alt="Website" width="40">](https://scienhac.blogspot.com/)
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40">](https://www.instagram.com/scienhac)
 [<img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" alt="YouTube" width="40">](https://www.youtube.com/@scienhac)
