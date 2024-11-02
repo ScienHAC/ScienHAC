@@ -96,6 +96,7 @@ I'm passionate about exploring **quantum physics**, **advanced calculus**, **sta
 ---
 
 ### 📊 GitHub Stats:
+<h2></h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ScienHAC&show_icons=true&theme=radical" alt="Piyush's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScienHAC&layout=compact&theme=radical" alt="Top Languages">
