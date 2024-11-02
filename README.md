@@ -32,7 +32,6 @@
 ---
 
 ### 🔗 My Digital Space:
-<h2></h2>
 Find me across various platforms! Click the icons below:
 
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40">](https://github.com/ScienHAC/Piyush_space)
