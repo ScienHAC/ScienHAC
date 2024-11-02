@@ -15,6 +15,7 @@
 
 
 ### 🌟 About Me:
+<h2></h2>
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="flex: 2; text-align: left;">
     👋 **Hello, I'm Piyush!** Currently pursuing a B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning.
@@ -31,6 +32,7 @@
 ---
 
 ### 🔗 My Digital Space:
+<h2></h2>
 Find me across various platforms! Click the icons below:
 
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40">](https://github.com/ScienHAC/Piyush_space)
@@ -61,6 +63,7 @@ Find me across various platforms! Click the icons below:
 ---
 
 ### 🛠️ Tech Toolbox:
+<h2></h2>
 Here are the tools and languages I work with:
 
 <div align="center">
