@@ -102,13 +102,8 @@ I'm passionate about exploring **quantum physics**, **advanced calculus**, **sta
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ScienHAC&theme=radical" alt="GitHub Streak" />
 </div>
 
-
----
-
-### 🏆 GitHub Trophies
-
-[]![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ScienHAC&theme=algolia&no-frame=true&row=1&column=6)
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ScienHAC&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
