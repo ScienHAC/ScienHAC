@@ -13,7 +13,7 @@
 
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
-<hr style="border: 0.5px solid lightgray; margin-top: 10px; margin-bottom: 10px;" />
+<hr style="border: 0.1px solid lightgray; margin-top: 10px; margin-bottom: 10px;" />
 
 ### 🌟 About Me:
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
