@@ -1,19 +1,18 @@
 <div align="center">
   <h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Hi" width="50"> Hi there, I'm Piyush!</h1>
-  <p>✨ Welcome to the ScienHAC GitHub Dashboard! ✨</p>
+  <p>✨ Welcome to the ScienHAC GitHub Dashboard! ✨ </p>
 </div>
+  <p align="right"> <strong> <<///>> Where creativity meets technology!</strong> </p>
 
-<hr style="border: 0.5px solid lightgray; margin-top: 10px; margin-bottom: 10px;" />
 
-<p align="right"> <strong> <<///>> Where creativity meets technology!</strong> </p>
-
-<img src="https://s11.gifyu.com/images/SAfTj.gif" alt="Dragon GIF" width="200" style="filter: hue-rotate(0deg);" align="left">
-<br/><br/><br/><br/><br/></br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=610&lines=%F0%9F%91%8B+Hey+there%2C+fellow+developers!;%F0%9F%9A%80+Greetings%2C+explorers+of+innovation!;%F0%9F%8C%9F+Welcome+aboard+to+the+ScienHAC+GitHub+Dashboard!;%E2%9C%A8+Step+into+a+world+of+endless+possibilities!" alt="Typing SVG" align="right" /></a>
+  <img src="https://s11.gifyu.com/images/SAfTj.gif" alt="Dragon GIF" width="200" style="filter: hue-rotate(0deg);" align="left">
+  <br/><br/><br/><br/><br/></br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=610&lines=%F0%9F%91%8B+Hey+there%2C+fellow+developers!;%F0%9F%9A%80+Greetings%2C+explorers+of+innovation!;%F0%9F%8C%9F+Welcome+aboard+to+the+ScienHAC+GitHub+Dashboard!;%E2%9C%A8+Step+into+a+world+of+endless+possibilities!" alt="Typing SVG" align="right" /></a>
 
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
-<hr style="border: 0.1px solid lightgray; margin-top: 10px; margin-bottom: 10px;" />
+---
+
 
 ### 🌟 About Me:
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
@@ -29,7 +28,7 @@
   </div>
 </div>
 
-<hr style="border: 0.5px solid lightgray; margin-top: 10px; margin-bottom: 10px;" />
+---
 
 ### 🔗 My Digital Space:
 Find me across various platforms! Click the icons below:
@@ -41,7 +40,7 @@ Find me across various platforms! Click the icons below:
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40">](https://www.instagram.com/scienhac)
 [<img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" alt="YouTube" width="40">](https://www.youtube.com/@scienhac)
 
-<hr style="border: 0.5px solid lightgray; margin-top: 10px; margin-bottom: 10px;" />
+---
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -59,7 +58,7 @@ Find me across various platforms! Click the icons below:
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 
-<hr style="border: 0.5px solid lightgray; margin-top: 10px; margin-bottom: 10px;" />
+---
 
 ### 🛠️ Tech Toolbox:
 Here are the tools and languages I work with:
@@ -78,7 +77,12 @@ Here are the tools and languages I work with:
   <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="NodeJS" width="40">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" alt="PostgreSQL" width="40">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="MySQL" width="40">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919835.png" alt="MongoDB" width="40">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" alt="TensorFlow" width="40">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Pandas" width="40">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="NumPy" width="40">
+  <img src="https://cdn-icons-png.flaticon.com/512/874/874371.png" alt="Arduino" width="40">
+  <img src="https://cdn-icons-png.flaticon.com/512/843/843320.png" alt="Kali Linux" width="40">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="PowerBI" width="40">
 </div>
 <div align="center">
 <img src="https://s11.gifyu.com/images/SAf92.gif" alt="Tech GIF" width="200" align="center" style="filter: hue-rotate(0deg); margin-top: 20px;">
