@@ -107,7 +107,7 @@ I'm passionate about exploring **quantum physics**, **advanced calculus**, **sta
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ScienHAC&theme=algolia&no-frame=true&row=1&column=6)
+[]![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ScienHAC&theme=algolia&no-frame=true&row=1&column=6)
 
 
 ---
