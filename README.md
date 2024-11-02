@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif" alt="Banner Image" style="width: 100vw; height: auto;">
+</div>
+<div align="center">
   <h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Hi" width="50"> Hi there, I'm Piyush!</h1>
   <p>✨ Welcome to the ScienHAC GitHub Dashboard! ✨ </p>
 </div>
