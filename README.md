@@ -96,7 +96,7 @@ I'm passionate about exploring **quantum physics**, **advanced calculus**, **sta
 ---
 
 ### 📊 GitHub Stats:
-<hr style="border: 0.1px solid lightgray; margin-top: 10px; margin-bottom: 10px;" />
+<hr style="border: 0.01px solid lightgray; margin-top: 0px; margin-bottom: 0px;" />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ScienHAC&show_icons=true&theme=radical" alt="Piyush's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScienHAC&layout=compact&theme=radical" alt="Top Languages">
