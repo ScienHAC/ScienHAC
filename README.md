@@ -2,11 +2,7 @@
 
 <div align="center">
 
-<img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif" alt="hero banner" width="100%" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&height=36&lines=%24+whoami;372+LeetCode+solved+%C2%B7+32+repos+%C2%B7+1+merged+OWASP+PR" alt="terminal typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&height=40&lines=%24+whoami+%E2%86%92+AI%2FML+%26+Full-Stack+Engineer;372+LeetCode+solved+%C2%B7+32+repos+%C2%B7+OWASP+PR+Merged;Building+production+SaaS+%C2%B7+EEG+neural+research" alt="terminal typing animation" />
 
 <br/>
 
@@ -35,13 +31,13 @@
 <tr>
 <td width="60%" valign="top">
 
-AI/ML and full-stack engineer working across production web, applied ML, and IoT. Started with Kali Linux exploits in 2021; now shipping payment-integrated SaaS at **Kaizen Training Solutions** and researching EEG-based emotion recognition at **Krea University**.
+**AI/ML &amp; Full-Stack Software Engineer** architecting production web platforms, applied machine learning pipelines, and edge IoT devices. Started with Kali Linux exploits in 2021; now shipping payment-integrated SaaS at **Kaizen Training Solutions** and researching EEG neural recognition at **Krea University**.
 
-*Comfortable moving between a FastAPI training pipeline, a Next.js checkout flow, and a merged PR into an OWASP Foundation repo — in the same week.*
+> <i>Comfortable moving between a FastAPI training pipeline, a Next.js checkout flow, and a merged PR into an OWASP Foundation repo — in the same week.</i>
 
-- 🛡️ **Open Source** — Merged a security-hardening PR into **[OWASP/Nest](https://github.com/OWASP/Nest)** (`#3799`); Next.js 16 middleware support proposed to **[opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare)** (`#1280`, 1.8k★)
-- 🧠 **Neural Computing** — EEG emotion recognition (**[eeg-seed-IV](https://github.com/ScienHAC/eeg-seed-IV)** — 87% accuracy across 15k+ samples) + embedded robotics (**[object-sorting-Rarm](https://github.com/ScienHAC/object-sorting-Rarm)**)
-- 💳 **Production Fintech** — Razorpay-integrated features serving 200+ concurrent users at zero downtime
+- 🛡️ **Open Source Security** — Merged production security PR into **[OWASP/Nest](https://github.com/OWASP/Nest)** (`#3799`) · Next.js 16 edge middleware proposed to **[opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare)** (`#1280`, `1.8k★`)
+- 🧠 **Neural Computing &amp; BCI** — EEG emotion classification (**[eeg-seed-IV](https://github.com/ScienHAC/eeg-seed-IV)** — 87% accuracy on 15k+ trials) + embedded robotics (**[object-sorting-Rarm](https://github.com/ScienHAC/object-sorting-Rarm)**)
+- 💳 **Fintech SaaS Architecture** — Razorpay-integrated checkout and billing infrastructure serving 200+ concurrent users with zero downtime
 
 </td>
 <td width="40%" valign="top" align="center">
