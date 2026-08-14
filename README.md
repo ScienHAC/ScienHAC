@@ -2,6 +2,10 @@
 
 <div align="center">
 
+<img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif" alt="hero banner" width="100%" />
+
+<br/><br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&height=40&lines=%24+whoami+%E2%86%92+AI%2FML+%26+Full-Stack+Engineer;372+LeetCode+solved+%C2%B7+32+repos+%C2%B7+OWASP+PR+Merged;Building+production+SaaS+%C2%B7+EEG+neural+research" alt="terminal typing animation" />
 
 <br/>
