@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" fill="none">
+  <defs>
+    <radialGradient id="g_neu" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="l_neu" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#C4B5FD"/>
+      <stop offset="100%" stop-color="#7C6FE0"/>
+    </linearGradient>
+  </defs>
+  <circle cx="17" cy="17" r="16" fill="url(#g_neu)">
+    <animate attributeName="r" values="14;16;14" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <!-- Node connections -->
+  <line x1="9" y1="12" x2="17" y2="8" stroke="#7C6FE0" stroke-width="1.3" opacity="0.6"/>
+  <line x1="9" y1="22" x2="17" y2="26" stroke="#7C6FE0" stroke-width="1.3" opacity="0.6"/>
+  <line x1="17" y1="8" x2="25" y2="17" stroke="#7C6FE0" stroke-width="1.3" opacity="0.6"/>
+  <line x1="17" y1="26" x2="25" y2="17" stroke="#7C6FE0" stroke-width="1.3" opacity="0.6"/>
+  <line x1="9" y1="12" x2="17" y2="17" stroke="url(#l_neu)" stroke-width="1.4"/>
+  <line x1="9" y1="22" x2="17" y2="17" stroke="url(#l_neu)" stroke-width="1.4"/>
+  <line x1="17" y1="17" x2="25" y2="17" stroke="url(#l_neu)" stroke-width="1.5"/>
+  <!-- Nodes -->
+  <circle cx="9" cy="12" r="2.2" fill="#C4B5FD"/>
+  <circle cx="9" cy="22" r="2.2" fill="#C4B5FD"/>
+  <circle cx="17" cy="8" r="2" fill="#7C6FE0"/>
+  <circle cx="17" cy="26" r="2" fill="#7C6FE0"/>
+  <circle cx="17" cy="17" r="3" fill="#C4B5FD">
+    <animate attributeName="r" values="2.5;3.5;2.5" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="25" cy="17" r="2.6" fill="#A78BFA">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" fill="none">
+  <defs>
+    <radialGradient id="g_tro" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="l_tro" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FCD34D"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <circle cx="17" cy="17" r="16" fill="url(#g_tro)">
+    <animate attributeName="r" values="14;16;14" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M10 8h14v7a7 7 0 01-14 0V8z" fill="#0A0A0B" stroke="url(#l_tro)" stroke-width="1.6"/>
+  <path d="M10 11H7a3 3 0 003 3v-3zM24 11h3a3 3 0 01-3 3v-3z" stroke="url(#l_tro)" stroke-width="1.4" fill="none"/>
+  <path d="M17 15v5M12 24h10M14 20h6" stroke="url(#l_tro)" stroke-width="1.6" stroke-linecap="round"/>
+  <polygon points="17,10 18,12 20,12 18.5,13.2 19,15 17,14 15,15 15.5,13.2 14,12 16,12" fill="#FCD34D">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="1.8s" repeatCount="indefinite"/>
+  </polygon>
+</svg>
