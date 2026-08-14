@@ -135,37 +135,44 @@ Real diffs into other people's repos — not forks sitting idle.
 
 ## <img src=".assets/icons/chip.svg" width="30" valign="middle"/>&nbsp; `05` Stack
 
-<div align="center">
-
-**Languages**
-<br/>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h4>💻 Core Languages &amp; Systems</h4>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,ts,js&theme=dark" />
-
 <br/><br/>
-
-**AI / ML**
-<br/>
+<sub><code>Python</code> · <code>C++20</code> · <code>C</code> · <code>Java</code> · <code>TypeScript</code> · <code>JavaScript</code></sub>
+</td>
+<td width="50%" valign="top">
+<h4>🧠 AI / ML &amp; Neural Computing</h4>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
-
 <br/><br/>
-
-**Web**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,express,graphql&theme=dark" />
-
+<sub><code>TensorFlow</code> · <code>PyTorch</code> · <code>Scikit-Learn</code> · <code>OpenCV</code> · <code>NumPy</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>🌐 Web &amp; API Architecture</h4>
+<img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,nodejs,express,graphql&theme=dark" />
 <br/><br/>
-
-**Data & Cloud**
-<br/>
+<sub><code>Next.js 16</code> · <code>FastAPI</code> · <code>React</code> · <code>Node.js</code> · <code>GraphQL</code> · <code>REST</code></sub>
+</td>
+<td width="50%" valign="top">
+<h4>☁️ Cloud, Databases &amp; DevOps</h4>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,neo4j,aws,docker,githubactions,vercel&theme=dark" />
-
 <br/><br/>
-
-**Hardware & Security**
-<br/>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,kalilinux&theme=dark" />
-
-</div>
+<sub><code>PostgreSQL</code> · <code>Supabase</code> · <code>MongoDB</code> · <code>Docker</code> · <code>AWS</code> · <code>CI/CD</code></sub>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="100%" valign="top">
+<h4>🛡️ Hardware, Embedded &amp; Security</h4>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,kalilinux,linux,git,bash&theme=dark" />
+<br/><br/>
+<sub><code>Arduino</code> · <code>Raspberry Pi</code> · <code>PlatformIO</code> · <code>Kali Linux</code> · <code>OWASP Hardening</code> · <code>Embedded C++</code></sub>
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
