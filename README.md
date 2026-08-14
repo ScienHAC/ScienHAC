@@ -1,15 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&custom_color_list=0,1C1730,45,6D5BD0,100,C4B5FD&height=190&section=header&text=PIYUSH%20SHARMA&fontSize=46&fontColor=F5F5F3&fontAlign=50&fontAlignY=42&animation=twinkling&desc=AI%2FML%20%2B%20Full-Stack%20Engineer&descAlign=50&descAlignY=62&descSize=17" width="100%" alt="header"/>
+<img src=".assets/cyber-header.svg" width="100%" alt="Piyush Sharma"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=45&lines=%24+whoami;Building+%40+Kaizen+Training+Solutions+%7C+Gurugram%2C+India;%24+git+log+--author%3Downasp+--grep%3Dmerged;Shipped+a+security+PR+into+OWASP%2FNest" alt="terminal typing animation" />
+<img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif" alt="hero banner" width="100%" />
 
-<br/>
+<br/><br/>
 
-<table>
-<tr><td align="left">🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>operator@scienhac:~$ whoami --render-ascii</code></td></tr>
-<tr><td align="center"><img src=".assets/ascii-portrait.gif" width="380" alt="ASCII portrait scan" /></td></tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&height=36&lines=%24+whoami;372+LeetCode+solved+%C2%B7+32+repos+%C2%B7+1+merged+OWASP+PR" alt="terminal typing animation" />
 
 <br/>
 
@@ -26,12 +23,11 @@
 ![Status](https://img.shields.io/badge/status-open_to_collabs-141518?style=flat-square&logo=googlemeet&logoColor=A78BFA)
 ![Location](https://img.shields.io/badge/gurugram,_india-141518?style=flat-square&logo=mapbox&logoColor=A78BFA)
 ![OWASP](https://img.shields.io/badge/OWASP%2FNest-merged_PR-141518?style=flat-square&logo=owasp&logoColor=A78BFA)
-![SIH](https://img.shields.io/badge/smart_india_hackathon-national_finalist-141518?style=flat-square&logo=starship&logoColor=A78BFA)
 ![LeetCode](https://img.shields.io/badge/leetcode-372_solved-141518?style=flat-square&logo=leetcode&logoColor=A78BFA)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1730,100:6D5BD0&height=2&section=header" width="100%" alt=""/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## <img src=".assets/icons/terminal.svg" width="30" valign="middle"/>&nbsp; `01` About
 
@@ -45,34 +41,21 @@ AI/ML and full-stack engineer working across production web, applied ML, and IoT
 
 - 🛡️ **Open Source** — Merged a security-hardening PR into **[OWASP/Nest](https://github.com/OWASP/Nest)** (`#3799`); Next.js 16 middleware support proposed to **[opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare)** (`#1280`, 1.8k★)
 - 🧠 **Neural Computing** — EEG emotion recognition (**[eeg-seed-IV](https://github.com/ScienHAC/eeg-seed-IV)** — 87% accuracy across 15k+ samples) + embedded robotics (**[object-sorting-Rarm](https://github.com/ScienHAC/object-sorting-Rarm)**)
-- 🏆 **SIH National Finalist** — Smart-Vitals, real-time IoT health monitoring
 - 💳 **Production Fintech** — Razorpay-integrated features serving 200+ concurrent users at zero downtime
 
 </td>
-<td width="40%" valign="top">
+<td width="40%" valign="top" align="center">
 
 <table width="100%">
-<tr><td align="left">🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>fact_sheet.json</code></td></tr>
-<tr><td>
-
-```yaml
-role:     AI/ML + Full-Stack
-based_in: Gurugram, India
-current:  Kaizen Training
-          Solutions
-focus:    web · applied ML · IoT
-leetcode: 372 solved (59 hard)
-oss:      1 merged (OWASP/Nest)
-```
-
-</td></tr>
+<tr><td align="left">🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>whoami --render-ascii</code></td></tr>
+<tr><td align="center"><img src=".assets/ascii-portrait.gif" width="280" alt="ASCII portrait scan" /></td></tr>
 </table>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1730,100:6D5BD0&height=2&section=header" width="100%" alt=""/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## <img src=".assets/icons/signal.svg" width="30" valign="middle"/>&nbsp; `02` Now
 
@@ -81,9 +64,8 @@ oss:      1 merged (OWASP/Nest)
 | **Oct 2025 → Present** | Software Developer · Kaizen Training Solutions | Next.js/FastAPI features, Razorpay payments, 200+ concurrent users |
 | Jul – Aug 2025 | Backend Engineer · NeedCFO | Fintech platform, ML support chatbot (85% resolution rate) |
 | Jun – Aug 2025 | Research Intern · Krea University | EEG emotion recognition — 87% accuracy on 15k+ samples |
-| 2025 | Finalist · Smart India Hackathon | Smart-Vitals — IoT health monitoring |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1730,100:6D5BD0&height=2&section=header" width="100%" alt=""/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## <img src=".assets/icons/shield.svg" width="30" valign="middle"/>&nbsp; `03` Open Source
 
@@ -94,7 +76,7 @@ Real diffs into other people's repos — not forks sitting idle.
 | **[OWASP/Nest](https://github.com/OWASP/Nest)** — nonprofit foundation repo | [`#3799`](https://github.com/OWASP/Nest/pull/3799) — hardened production settings: GraphQL introspection lockdown, HSTS, security headers | ✅ **merged** |
 | **[opennextjs/opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare)** ★ 1.8k+ | [`#1280`](https://github.com/opennextjs/opennextjs-cloudflare/pull/1280) / [`#1309`](https://github.com/opennextjs/opennextjs-cloudflare/pull/1309) — Next.js 16 Node.js middleware (`proxy.ts`) support | 🔄 in review |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1730,100:6D5BD0&height=2&section=header" width="100%" alt=""/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## <img src=".assets/icons/grid.svg" width="30" valign="middle"/>&nbsp; `04` Featured Work
 
@@ -149,7 +131,7 @@ Real diffs into other people's repos — not forks sitting idle.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1730,100:6D5BD0&height=2&section=header" width="100%" alt=""/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## <img src=".assets/icons/chip.svg" width="30" valign="middle"/>&nbsp; `05` Stack
 
@@ -185,7 +167,7 @@ Real diffs into other people's repos — not forks sitting idle.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1730,100:6D5BD0&height=2&section=header" width="100%" alt=""/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## <img src=".assets/icons/chart.svg" width="30" valign="middle"/>&nbsp; `06` Stats
 

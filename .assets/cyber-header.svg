@@ -98,8 +98,8 @@
     <text x="35" y="85">01001001 01000101</text>
     <text x="35" y="105">01010010 00100000</text>
     <text x="35" y="125">0x7F4B9A [KERNEL]</text>
-    <text x="35" y="145">AST_MAP_LOADED</text>
-    <text x="35" y="165">RUST_HARNESS_ON</text>
+    <text x="35" y="145">KAIZEN_TRAINING</text>
+    <text x="35" y="165">RAZORPAY_INTEGRATED</text>
     <text x="35" y="185">OWASP_HARDENED</text>
   </g>
 
@@ -110,7 +110,7 @@
     <text x="965" y="85">SQLite_GRAPH_DB</text>
     <text x="965" y="105">NEXTJS16_CLOUDFLARE</text>
     <text x="965" y="125">200_CONCURRENT_USERS</text>
-    <text x="965" y="145">SIH_NAT_FINALIST</text>
+    <text x="965" y="145">OWASP_NEST_MERGED</text>
     <text x="965" y="165">372_LEETCODE_HARD</text>
     <text x="965" y="185">0x00_EXIT_STATUS</text>
   </g>
@@ -123,7 +123,7 @@
     </circle>
     <text x="368" y="29" fill="#00F5FF" letter-spacing="1.5">SYS_CORE: ONLINE</text>
     <text x="525" y="29" fill="#A78BFA">|</text>
-    <text x="545" y="29" fill="#FF007A" letter-spacing="1.5">PROTO: ATELIER</text>
+    <text x="545" y="29" fill="#FF007A" letter-spacing="1.5">ROLE: ENGINEER</text>
   </g>
 
   <!-- Main Animated Glitch/Glow Title -->
@@ -146,7 +146,7 @@
 
     <!-- Subtitle / Mission Tagline -->
     <text x="500" y="185" class="fira-mono" font-size="13" font-weight="600" fill="#C4B5FD" letter-spacing="2">
-      AI FRAMEWORKS • RUST HARNESS • NEURAL BCI • OWASP SECURITY
+      AI/ML ENGINEER • FULL-STACK • EEG RESEARCH • OWASP SECURITY
     </text>
 
     <!-- Animated Cursor -->
