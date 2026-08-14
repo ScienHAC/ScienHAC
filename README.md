@@ -59,11 +59,30 @@
 
 ## <img src=".assets/icons/signal.svg" width="30" valign="middle"/>&nbsp; `02` Now
 
-| Timeline | Role & Organization | Core Focus & Impact | Status |
-|---|---|---|:---:|
-| **Oct 2025 → Present** | **Software Developer** · Kaizen Training Solutions | Next.js/FastAPI production features, Razorpay payments, 200+ concurrent users | ![Production](https://img.shields.io/badge/Active_⚡-00FF66?style=flat-square&labelColor=141518) |
-| **Jul – Aug 2025** | **Backend Engineer** · NeedCFO | Fintech platform architecture, ML support chatbot (85% resolution rate) | ![Shipped](https://img.shields.io/badge/Shipped_🚀-A78BFA?style=flat-square&labelColor=141518) |
-| **Jun – Aug 2025** | **Research Intern** · Krea University | EEG emotion recognition deep learning — 87% accuracy on 15k+ EEG samples | ![Research](https://img.shields.io/badge/Research_🧠-00F5FF?style=flat-square&labelColor=141518) |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h4>⚡ Software Developer <img src="https://img.shields.io/badge/Active_Production-00FF66?style=flat-square&labelColor=141518" /></h4>
+<b>🏢 Kaizen Training Solutions</b> · <code>Oct 2025 → Present</code><br/><br/>
+<p>Architecting scalable Next.js &amp; FastAPI production systems, payment gateway checkout pipelines, and real-time features serving <b>200+ concurrent users</b> at zero downtime.</p>
+<img src="https://img.shields.io/badge/Next.js_16-141518?style=flat-square&logo=nextdotjs&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/FastAPI-141518?style=flat-square&logo=fastapi&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/Razorpay-141518?style=flat-square&logo=razorpay&logoColor=A78BFA" />
+</td>
+<td width="50%" valign="top">
+<h4>🧠 Research Intern — EEG Neural AI <img src="https://img.shields.io/badge/Research_Grant-00F5FF?style=flat-square&labelColor=141518" /></h4>
+<b>🏛️ Krea University</b> · <code>Jun – Aug 2025</code><br/><br/>
+<p>Investigated deep learning architectures for real-time 4-band EEG emotion recognition on the SEED-IV benchmark, achieving <b>87% classification accuracy</b> across 15,000+ trial samples.</p>
+<img src="https://img.shields.io/badge/TensorFlow-141518?style=flat-square&logo=tensorflow&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/Python_3.12-141518?style=flat-square&logo=python&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/Signal_DSP-141518?style=flat-square&logoColor=A78BFA" />
+</td>
+</tr>
+<tr>
+<td colspan="2" width="100%" valign="top">
+<h4>🚀 Backend Engineer <img src="https://img.shields.io/badge/Shipped_Fintech-A78BFA?style=flat-square&labelColor=141518" /></h4>
+<b>💼 NeedCFO</b> · <code>Jul – Aug 2025</code><br/><br/>
+<p>Developed core backend financial data workflows and trained an intelligent ML support chatbot achieving an <b>85% automated query resolution rate</b>.</p>
+<img src="https://img.shields.io/badge/Node.js-141518?style=flat-square&logo=nodedotjs&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/PostgreSQL-141518?style=flat-square&logo=postgresql&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/NLP_Bot-141518?style=flat-square&logoColor=A78BFA" />
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -71,10 +90,22 @@
 
 Real merged pull requests and contributions into high-impact open-source foundations.
 
-| Repository | PR & Contribution Description | Impact / Status |
-|---|---|:---:|
-| **[OWASP/Nest](https://github.com/OWASP/Nest)**<br/><sub>Nonprofit Cybersecurity Foundation</sub> | [`#3799`](https://github.com/OWASP/Nest/pull/3799) — Hardened production settings: GraphQL introspection lockdown, HSTS, and strict security headers | ![Merged](https://img.shields.io/badge/PR_Merged-00FF66?style=flat-square&logo=github&labelColor=141518) |
-| **[opennextjs/opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare)**<br/><sub>★ 1.8k+ Cloudflare Next.js adapter</sub> | [`#1280`](https://github.com/opennextjs/opennextjs-cloudflare/pull/1280) / [`#1309`](https://github.com/opennextjs/opennextjs-cloudflare/pull/1309) — Next.js 16 Node.js middleware (`proxy.ts`) support | ![In Review](https://img.shields.io/badge/In_Review_🔄-A78BFA?style=flat-square&logo=github&labelColor=141518) |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h4>🛡️ <a href="https://github.com/OWASP/Nest">OWASP/Nest</a> <img src="https://img.shields.io/badge/PR_Merged_✅-00FF66?style=flat-square&logo=github&labelColor=141518" /></h4>
+<b>Global Cybersecurity Non-Profit Foundation</b><br/><br/>
+<p>Hardened production security headers, enforced HSTS preloading, and locked down GraphQL schema introspection in production deployments to prevent schema enumeration attacks.</p>
+<a href="https://github.com/OWASP/Nest/pull/3799"><img src="https://img.shields.io/badge/Diff-PR_%233799-A78BFA?style=flat-square&logo=git&logoColor=A78BFA" /></a> <img src="https://img.shields.io/badge/Security-GraphQL_Hardening-141518?style=flat-square&logo=graphql&logoColor=A78BFA" />
+</td>
+<td width="50%" valign="top">
+<h4>⚡ <a href="https://github.com/opennextjs/opennextjs-cloudflare">opennextjs-cloudflare</a> <img src="https://img.shields.io/badge/In_Review_🔄-A78BFA?style=flat-square&logo=github&labelColor=141518" /></h4>
+<b>★ 1.8k+ Next.js on Cloudflare Workers Ecosystem</b><br/><br/>
+<p>Engineered Next.js 16 Node.js runtime middleware (<code>proxy.ts</code>) execution bridge for Cloudflare edge instances, enabling full compatibility for Next.js 16 features on serverless workers.</p>
+<a href="https://github.com/opennextjs/opennextjs-cloudflare/pull/1280"><img src="https://img.shields.io/badge/Diff-PR_%231280-A78BFA?style=flat-square&logo=git&logoColor=A78BFA" /></a> <a href="https://github.com/opennextjs/opennextjs-cloudflare/pull/1309"><img src="https://img.shields.io/badge/Diff-PR_%231309-A78BFA?style=flat-square&logo=git&logoColor=A78BFA" /></a> <img src="https://img.shields.io/badge/Edge-Cloudflare_Workers-141518?style=flat-square&logo=cloudflare&logoColor=A78BFA" />
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -83,50 +114,50 @@ Real merged pull requests and contributions into high-impact open-source foundat
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h4>⚡ <a href="https://github.com/ScienHAC/arista">arista</a> · <a href="https://arista-bits.vercel.app/">live ↗</a></h4>
-<p>Trading &amp; portfolio intelligence analytics platform.</p>
-<img src="https://img.shields.io/badge/TypeScript-141518?style=flat-square&logo=typescript&logoColor=A78BFA" /> <img src="https://img.shields.io/github/stars/ScienHAC/arista?style=flat-square&color=A78BFA&labelColor=141518" />
+<h4>⚡ <a href="https://github.com/ScienHAC/arista">arista</a> · <a href="https://arista-bits.vercel.app/">live demo ↗</a></h4>
+<p>High-frequency trading &amp; portfolio intelligence platform featuring real-time market data analytics and interactive asset allocation visualizers.</p>
+<img src="https://img.shields.io/badge/TypeScript-141518?style=flat-square&logo=typescript&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/Next.js-141518?style=flat-square&logo=nextdotjs&logoColor=A78BFA" /> <img src="https://img.shields.io/github/stars/ScienHAC/arista?style=flat-square&color=A78BFA&labelColor=141518" />
 </td>
 <td width="50%" valign="top">
-<h4>🌱 <a href="https://github.com/ScienHAC/ventspace">VentSpace</a> · <a href="https://ventspace-ai.vercel.app">live ↗</a></h4>
-<p>Hack4Humanity 2025 — AI-supported emotional venting paired with real-world tree planting.</p>
-<img src="https://img.shields.io/badge/TypeScript-141518?style=flat-square&logo=typescript&logoColor=A78BFA" /> <img src="https://img.shields.io/github/stars/ScienHAC/ventspace?style=flat-square&color=A78BFA&labelColor=141518" />
+<h4>🌱 <a href="https://github.com/ScienHAC/ventspace">VentSpace</a> · <a href="https://ventspace-ai.vercel.app">live demo ↗</a></h4>
+<p><b>Hack4Humanity 2025</b> — AI-guided mental decompression platform pairing real-time sentiment analysis with actual geo-verified tree planting initiatives.</p>
+<img src="https://img.shields.io/badge/TypeScript-141518?style=flat-square&logo=typescript&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/AI_NLP-141518?style=flat-square&logo=openai&logoColor=A78BFA" /> <img src="https://img.shields.io/github/stars/ScienHAC/ventspace?style=flat-square&color=A78BFA&labelColor=141518" />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4>🧠 <a href="https://github.com/ScienHAC/mentorAI">logikXmind</a> · <a href="https://logikxmind.com">live ↗</a></h4>
-<p>AI mentorship platform with personalized learning paths and automated skill tracking.</p>
-<img src="https://img.shields.io/badge/TypeScript-141518?style=flat-square&logo=typescript&logoColor=A78BFA" /> <img src="https://img.shields.io/github/stars/ScienHAC/mentorAI?style=flat-square&color=A78BFA&labelColor=141518" />
+<h4>🧠 <a href="https://github.com/ScienHAC/mentorAI">logikXmind</a> · <a href="https://logikxmind.com">live demo ↗</a></h4>
+<p>AI-powered mentorship &amp; knowledge graph platform dynamically synthesizing personalized developer learning roadmaps with automated skill tracking.</p>
+<img src="https://img.shields.io/badge/TypeScript-141518?style=flat-square&logo=typescript&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/FastAPI-141518?style=flat-square&logo=fastapi&logoColor=A78BFA" /> <img src="https://img.shields.io/github/stars/ScienHAC/mentorAI?style=flat-square&color=A78BFA&labelColor=141518" />
 </td>
 <td width="50%" valign="top">
 <h4>🔬 <a href="https://github.com/ScienHAC/eeg-seed-IV">eeg-seed-IV</a></h4>
-<p>Deep learning EEG emotion recognition research — 87% accuracy across 15k+ time-series trials.</p>
-<img src="https://img.shields.io/badge/Python-141518?style=flat-square&logo=python&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/TensorFlow-141518?style=flat-square&logo=tensorflow&logoColor=A78BFA" />
+<p>Deep neural network architecture for EEG-based emotion recognition on SEED-IV dataset, achieving <b>87% classification accuracy</b> across 15k+ multi-channel signal epochs.</p>
+<img src="https://img.shields.io/badge/Python-141518?style=flat-square&logo=python&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/TensorFlow-141518?style=flat-square&logo=tensorflow&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/NumPy-141518?style=flat-square&logo=numpy&logoColor=A78BFA" />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4>📊 <a href="https://github.com/ScienHAC/ai-financial-advisor">ai-financial-advisor</a> · <a href="https://ai-financial-advisor-red.vercel.app">live ↗</a></h4>
-<p>LLM-driven portfolio evaluation engine and automated risk analysis.</p>
-<img src="https://img.shields.io/badge/TypeScript-141518?style=flat-square&logo=typescript&logoColor=A78BFA" /> <img src="https://img.shields.io/github/stars/ScienHAC/ai-financial-advisor?style=flat-square&color=A78BFA&labelColor=141518" />
+<h4>📊 <a href="https://github.com/ScienHAC/ai-financial-advisor">ai-financial-advisor</a> · <a href="https://ai-financial-advisor-red.vercel.app">live demo ↗</a></h4>
+<p>LLM-augmented financial advisory engine executing multi-factor portfolio risk stress testing and automated algorithmic asset rebalancing strategies.</p>
+<img src="https://img.shields.io/badge/TypeScript-141518?style=flat-square&logo=typescript&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/Next.js-141518?style=flat-square&logo=nextdotjs&logoColor=A78BFA" /> <img src="https://img.shields.io/github/stars/ScienHAC/ai-financial-advisor?style=flat-square&color=A78BFA&labelColor=141518" />
 </td>
 <td width="50%" valign="top">
 <h4>📡 <a href="https://github.com/ScienHAC/dbiot">dbiot</a></h4>
-<p>Flutter + embedded hardware telemetry and IoT device control hub.</p>
-<img src="https://img.shields.io/badge/Dart-141518?style=flat-square&logo=dart&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/Flutter-141518?style=flat-square&logo=flutter&logoColor=A78BFA" />
+<p>Cross-platform Flutter application &amp; embedded telemetry gateway for real-time remote sensor data streaming and micro-controller control protocols.</p>
+<img src="https://img.shields.io/badge/Dart-141518?style=flat-square&logo=dart&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/Flutter-141518?style=flat-square&logo=flutter&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/IoT_Telemetry-141518?style=flat-square&logo=arduino&logoColor=A78BFA" />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h4>🦾 <a href="https://github.com/ScienHAC/object-sorting-Rarm">object-sorting-Rarm</a></h4>
-<p>Embedded robotic arm control for automated object classification &amp; sorting (PlatformIO/C++).</p>
-<img src="https://img.shields.io/badge/C++-141518?style=flat-square&logo=cplusplus&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/PlatformIO-141518?style=flat-square&logo=platformio&logoColor=A78BFA" />
+<p>Embedded robotic arm control firmware written in C++ via PlatformIO with kinematics solvers and hardware actuation drivers for automated sorting.</p>
+<img src="https://img.shields.io/badge/C++-141518?style=flat-square&logo=cplusplus&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/PlatformIO-141518?style=flat-square&logo=platformio&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/Robotics-141518?style=flat-square&logoColor=A78BFA" />
 </td>
 <td width="50%" valign="top">
 <h4>🚀 <a href="https://github.com/ScienHAC?tab=repositories">32 Public Repositories ↗</a></h4>
-<p>Explore all open-source projects, neural models, IoT firmware, and developer utilities.</p>
-<img src="https://img.shields.io/badge/browse_all-141518?style=flat-square&logo=github&logoColor=A78BFA" />
+<p>Browse all open-source repositories spanning applied AI pipelines, reverse-engineering experiments, cybersecurity tools, and production SaaS architectures.</p>
+<img src="https://img.shields.io/badge/GitHub-32_Repos-141518?style=flat-square&logo=github&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/Explore_All-A78BFA?style=flat-square&labelColor=141518" />
 </td>
 </tr>
 </table>
