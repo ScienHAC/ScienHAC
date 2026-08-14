@@ -59,22 +59,22 @@ AI/ML and full-stack engineer working across production web, applied ML, and IoT
 
 ## <img src=".assets/icons/signal.svg" width="30" valign="middle"/>&nbsp; `02` Now
 
-| Period | Role | Focus |
-|---|---|---|
-| **Oct 2025 → Present** | Software Developer · Kaizen Training Solutions | Next.js/FastAPI features, Razorpay payments, 200+ concurrent users |
-| Jul – Aug 2025 | Backend Engineer · NeedCFO | Fintech platform, ML support chatbot (85% resolution rate) |
-| Jun – Aug 2025 | Research Intern · Krea University | EEG emotion recognition — 87% accuracy on 15k+ samples |
+| Timeline | Role & Organization | Core Focus & Impact | Status |
+|---|---|---|:---:|
+| **Oct 2025 → Present** | **Software Developer** · Kaizen Training Solutions | Next.js/FastAPI production features, Razorpay payments, 200+ concurrent users | ![Production](https://img.shields.io/badge/Active_⚡-00FF66?style=flat-square&labelColor=141518) |
+| **Jul – Aug 2025** | **Backend Engineer** · NeedCFO | Fintech platform architecture, ML support chatbot (85% resolution rate) | ![Shipped](https://img.shields.io/badge/Shipped_🚀-A78BFA?style=flat-square&labelColor=141518) |
+| **Jun – Aug 2025** | **Research Intern** · Krea University | EEG emotion recognition deep learning — 87% accuracy on 15k+ EEG samples | ![Research](https://img.shields.io/badge/Research_🧠-00F5FF?style=flat-square&labelColor=141518) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## <img src=".assets/icons/shield.svg" width="30" valign="middle"/>&nbsp; `03` Open Source
 
-Real diffs into other people's repos — not forks sitting idle.
+Real merged pull requests and contributions into high-impact open-source foundations.
 
-| Project | Contribution | Status |
-|---|---|---|
-| **[OWASP/Nest](https://github.com/OWASP/Nest)** — nonprofit foundation repo | [`#3799`](https://github.com/OWASP/Nest/pull/3799) — hardened production settings: GraphQL introspection lockdown, HSTS, security headers | ✅ **merged** |
-| **[opennextjs/opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare)** ★ 1.8k+ | [`#1280`](https://github.com/opennextjs/opennextjs-cloudflare/pull/1280) / [`#1309`](https://github.com/opennextjs/opennextjs-cloudflare/pull/1309) — Next.js 16 Node.js middleware (`proxy.ts`) support | 🔄 in review |
+| Repository | PR & Contribution Description | Impact / Status |
+|---|---|:---:|
+| **[OWASP/Nest](https://github.com/OWASP/Nest)**<br/><sub>Nonprofit Cybersecurity Foundation</sub> | [`#3799`](https://github.com/OWASP/Nest/pull/3799) — Hardened production settings: GraphQL introspection lockdown, HSTS, and strict security headers | ![Merged](https://img.shields.io/badge/PR_Merged-00FF66?style=flat-square&logo=github&labelColor=141518) |
+| **[opennextjs/opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare)**<br/><sub>★ 1.8k+ Cloudflare Next.js adapter</sub> | [`#1280`](https://github.com/opennextjs/opennextjs-cloudflare/pull/1280) / [`#1309`](https://github.com/opennextjs/opennextjs-cloudflare/pull/1309) — Next.js 16 Node.js middleware (`proxy.ts`) support | ![In Review](https://img.shields.io/badge/In_Review_🔄-A78BFA?style=flat-square&logo=github&labelColor=141518) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -83,49 +83,49 @@ Real diffs into other people's repos — not forks sitting idle.
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/ScienHAC/arista">arista</a> · <a href="https://arista-bits.vercel.app/">live ↗</a></h4>
-<p>Trading &amp; portfolio intelligence dashboard.</p>
+<h4>⚡ <a href="https://github.com/ScienHAC/arista">arista</a> · <a href="https://arista-bits.vercel.app/">live ↗</a></h4>
+<p>Trading &amp; portfolio intelligence analytics platform.</p>
 <img src="https://img.shields.io/badge/TypeScript-141518?style=flat-square&logo=typescript&logoColor=A78BFA" /> <img src="https://img.shields.io/github/stars/ScienHAC/arista?style=flat-square&color=A78BFA&labelColor=141518" />
 </td>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/ScienHAC/ventspace">VentSpace</a> · <a href="https://ventspace-ai.vercel.app">live ↗</a></h4>
-<p>Hack4Humanity 2025 — AI-supported venting paired with real tree planting.</p>
+<h4>🌱 <a href="https://github.com/ScienHAC/ventspace">VentSpace</a> · <a href="https://ventspace-ai.vercel.app">live ↗</a></h4>
+<p>Hack4Humanity 2025 — AI-supported emotional venting paired with real-world tree planting.</p>
 <img src="https://img.shields.io/badge/TypeScript-141518?style=flat-square&logo=typescript&logoColor=A78BFA" /> <img src="https://img.shields.io/github/stars/ScienHAC/ventspace?style=flat-square&color=A78BFA&labelColor=141518" />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/ScienHAC/mentorAI">logikXmind</a> · <a href="https://logikxmind.com">live ↗</a></h4>
-<p>AI mentorship platform — personalized learning paths, AI tutoring.</p>
+<h4>🧠 <a href="https://github.com/ScienHAC/mentorAI">logikXmind</a> · <a href="https://logikxmind.com">live ↗</a></h4>
+<p>AI mentorship platform with personalized learning paths and automated skill tracking.</p>
 <img src="https://img.shields.io/badge/TypeScript-141518?style=flat-square&logo=typescript&logoColor=A78BFA" /> <img src="https://img.shields.io/github/stars/ScienHAC/mentorAI?style=flat-square&color=A78BFA&labelColor=141518" />
 </td>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/ScienHAC/eeg-seed-IV">eeg-seed-IV</a></h4>
-<p>Deep-learning EEG emotion recognition research — 87% accuracy, 15k+ samples.</p>
+<h4>🔬 <a href="https://github.com/ScienHAC/eeg-seed-IV">eeg-seed-IV</a></h4>
+<p>Deep learning EEG emotion recognition research — 87% accuracy across 15k+ time-series trials.</p>
 <img src="https://img.shields.io/badge/Python-141518?style=flat-square&logo=python&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/TensorFlow-141518?style=flat-square&logo=tensorflow&logoColor=A78BFA" />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/ScienHAC/ai-financial-advisor">ai-financial-advisor</a> · <a href="https://ai-financial-advisor-red.vercel.app">live ↗</a></h4>
-<p>LLM-driven portfolio evaluation and financial planning.</p>
+<h4>📊 <a href="https://github.com/ScienHAC/ai-financial-advisor">ai-financial-advisor</a> · <a href="https://ai-financial-advisor-red.vercel.app">live ↗</a></h4>
+<p>LLM-driven portfolio evaluation engine and automated risk analysis.</p>
 <img src="https://img.shields.io/badge/TypeScript-141518?style=flat-square&logo=typescript&logoColor=A78BFA" /> <img src="https://img.shields.io/github/stars/ScienHAC/ai-financial-advisor?style=flat-square&color=A78BFA&labelColor=141518" />
 </td>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/ScienHAC/dbiot">dbiot</a></h4>
-<p>Flutter + embedded IoT device control.</p>
+<h4>📡 <a href="https://github.com/ScienHAC/dbiot">dbiot</a></h4>
+<p>Flutter + embedded hardware telemetry and IoT device control hub.</p>
 <img src="https://img.shields.io/badge/Dart-141518?style=flat-square&logo=dart&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/Flutter-141518?style=flat-square&logo=flutter&logoColor=A78BFA" />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/ScienHAC/object-sorting-Rarm">object-sorting-Rarm</a></h4>
-<p>Embedded robotic arm control for automated object sorting (PlatformIO/C++).</p>
+<h4>🦾 <a href="https://github.com/ScienHAC/object-sorting-Rarm">object-sorting-Rarm</a></h4>
+<p>Embedded robotic arm control for automated object classification &amp; sorting (PlatformIO/C++).</p>
 <img src="https://img.shields.io/badge/C++-141518?style=flat-square&logo=cplusplus&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/PlatformIO-141518?style=flat-square&logo=platformio&logoColor=A78BFA" />
 </td>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/ScienHAC?tab=repositories">32 public repos ↗</a></h4>
-<p>The rest — bots, IoT experiments, research notebooks, and older web projects.</p>
+<h4>🚀 <a href="https://github.com/ScienHAC?tab=repositories">32 Public Repositories ↗</a></h4>
+<p>Explore all open-source projects, neural models, IoT firmware, and developer utilities.</p>
 <img src="https://img.shields.io/badge/browse_all-141518?style=flat-square&logo=github&logoColor=A78BFA" />
 </td>
 </tr>
