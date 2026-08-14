@@ -18,6 +18,8 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-141518?style=flat-square&logo=leetcode&logoColor=A78BFA)](https://leetcode.com/u/scienhac/)
 [![X](https://img.shields.io/badge/X-141518?style=flat-square&logo=x&logoColor=A78BFA)](https://x.com/scienhac)
 [![Email](https://img.shields.io/badge/Email-141518?style=flat-square&logo=gmail&logoColor=A78BFA)](mailto:piyush@inerate.com)
+[![Instagram](https://img.shields.io/badge/Instagram-141518?style=flat-square&logo=instagram&logoColor=A78BFA)](https://www.instagram.com/scienhac)
+[![YouTube](https://img.shields.io/badge/YouTube-141518?style=flat-square&logo=youtube&logoColor=A78BFA)](https://www.youtube.com/@scienhac)
 
 <br/><br/>
 
@@ -35,28 +37,29 @@
 
 <table width="100%">
 <tr>
-<td width="66%" valign="top">
+<td width="60%" valign="top">
 
 AI/ML and full-stack engineer working across production web, applied ML, and IoT. Started with Kali Linux exploits in 2021; now shipping payment-integrated SaaS at **Kaizen Training Solutions** and researching EEG-based emotion recognition at **Krea University**.
 
 *Comfortable moving between a FastAPI training pipeline, a Next.js checkout flow, and a merged PR into an OWASP Foundation repo — in the same week.*
 
-- 🛡️ Merged a security-hardening PR into **[OWASP/Nest](https://github.com/OWASP/Nest)** — GraphQL introspection lockdown, HSTS, security headers
-- 🧠 EEG emotion recognition research at Krea University — **87% accuracy** across 15k+ samples
-- 🏆 Smart India Hackathon — **National Finalist**, Hardware/IoT track
-- 💳 Shipped Razorpay-integrated production features serving **200+ concurrent users** at zero downtime
+- 🛡️ **Open Source** — Merged a security-hardening PR into **[OWASP/Nest](https://github.com/OWASP/Nest)** (`#3799`); Next.js 16 middleware support proposed to **[opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare)** (`#1280`, 1.8k★)
+- 🧠 **Neural Computing** — EEG emotion recognition (**[eeg-seed-IV](https://github.com/ScienHAC/eeg-seed-IV)** — 87% accuracy across 15k+ samples) + embedded robotics (**[object-sorting-Rarm](https://github.com/ScienHAC/object-sorting-Rarm)**)
+- 🏆 **SIH National Finalist** — Smart-Vitals, real-time IoT health monitoring
+- 💳 **Production Fintech** — Razorpay-integrated features serving 200+ concurrent users at zero downtime
 
 </td>
-<td width="34%" valign="top">
+<td width="40%" valign="top">
 
 <table width="100%">
-<tr><td align="left"><code>&nbsp;fact_sheet.json</code></td></tr>
+<tr><td align="left">🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>fact_sheet.json</code></td></tr>
 <tr><td>
 
 ```yaml
 role:     AI/ML + Full-Stack
 based_in: Gurugram, India
-current:  Kaizen Training Solutions
+current:  Kaizen Training
+          Solutions
 focus:    web · applied ML · IoT
 leetcode: 372 solved (59 hard)
 oss:      1 merged (OWASP/Nest)
@@ -197,6 +200,10 @@ Real diffs into other people's repos — not forks sitting idle.
 <img src="https://leetcard.jacoblin.cool/scienhac?theme=dark&font=JetBrains%20Mono&extension=activity" />
 
 <br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ScienHAC&theme=github_dark" width="98%" />
+
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ScienHAC&theme=github_dark" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ScienHAC&theme=github_dark" width="49%" />
