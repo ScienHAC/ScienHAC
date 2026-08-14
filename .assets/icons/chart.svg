@@ -1,14 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none">
-  <rect x="4" y="14" width="4" height="7" rx="1" fill="#A78BFA">
-    <animate attributeName="y" values="14;10;14" dur="1.8s" repeatCount="indefinite"/>
-    <animate attributeName="height" values="7;11;7" dur="1.8s" repeatCount="indefinite"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" fill="none">
+  <defs>
+    <radialGradient id="g6" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="l6" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#C4B5FD"/>
+      <stop offset="100%" stop-color="#7C6FE0"/>
+    </linearGradient>
+  </defs>
+  <circle cx="17" cy="17" r="16" fill="url(#g6)">
+    <animate attributeName="r" values="14;16;14" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="8" y="18" width="4.5" height="8" rx="1" fill="url(#l6)">
+    <animate attributeName="y" values="18;13;18" dur="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="height" values="8;13;8" dur="1.8s" repeatCount="indefinite"/>
   </rect>
-  <rect x="10" y="8" width="4" height="13" rx="1" fill="#A78BFA">
-    <animate attributeName="y" values="8;4;8" dur="1.8s" begin="0.3s" repeatCount="indefinite"/>
-    <animate attributeName="height" values="13;17;13" dur="1.8s" begin="0.3s" repeatCount="indefinite"/>
+  <rect x="15" y="12" width="4.5" height="14" rx="1" fill="url(#l6)">
+    <animate attributeName="y" values="12;7;12" dur="1.8s" begin="0.3s" repeatCount="indefinite"/>
+    <animate attributeName="height" values="14;19;14" dur="1.8s" begin="0.3s" repeatCount="indefinite"/>
   </rect>
-  <rect x="16" y="11" width="4" height="10" rx="1" fill="#A78BFA">
-    <animate attributeName="y" values="11;6;11" dur="1.8s" begin="0.6s" repeatCount="indefinite"/>
-    <animate attributeName="height" values="10;15;10" dur="1.8s" begin="0.6s" repeatCount="indefinite"/>
+  <rect x="22" y="15" width="4.5" height="11" rx="1" fill="url(#l6)">
+    <animate attributeName="y" values="15;9;15" dur="1.8s" begin="0.6s" repeatCount="indefinite"/>
+    <animate attributeName="height" values="11;17;11" dur="1.8s" begin="0.6s" repeatCount="indefinite"/>
   </rect>
 </svg>

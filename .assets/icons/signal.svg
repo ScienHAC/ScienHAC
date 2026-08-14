@@ -1,11 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none">
-  <circle cx="12" cy="12" r="2.4" fill="#A78BFA"/>
-  <circle cx="12" cy="12" r="6" stroke="#A78BFA" stroke-width="1.4" opacity="0.7">
-    <animate attributeName="r" values="6;10;6" dur="2.2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.7;0;0.7" dur="2.2s" repeatCount="indefinite"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" fill="none">
+  <defs>
+    <radialGradient id="g2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="17" cy="17" r="16" fill="url(#g2)">
+    <animate attributeName="r" values="14;16;14" dur="2.4s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="12" cy="12" r="6" stroke="#A78BFA" stroke-width="1.4" opacity="0.7">
-    <animate attributeName="r" values="6;10;6" dur="2.2s" begin="1.1s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.7;0;0.7" dur="2.2s" begin="1.1s" repeatCount="indefinite"/>
+  <circle cx="17" cy="17" r="3" fill="#C4B5FD"/>
+  <circle cx="17" cy="17" r="7" stroke="#A78BFA" stroke-width="1.5" opacity="0.75">
+    <animate attributeName="r" values="7;12;7" dur="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.75;0;0.75" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="17" cy="17" r="7" stroke="#7C6FE0" stroke-width="1.5" opacity="0.75">
+    <animate attributeName="r" values="7;12;7" dur="2.2s" begin="1.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.75;0;0.75" dur="2.2s" begin="1.1s" repeatCount="indefinite"/>
   </circle>
 </svg>

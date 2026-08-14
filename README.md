@@ -1,16 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0B&height=3&section=header" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&custom_color_list=0,1C1730,45,6D5BD0,100,C4B5FD&height=190&section=header&text=PIYUSH%20SHARMA&fontSize=46&fontColor=F5F5F3&fontAlign=50&fontAlignY=42&animation=twinkling&desc=AI%2FML%20%2B%20Full-Stack%20Engineer&descAlign=50&descAlignY=62&descSize=17" width="100%" alt="header"/>
 
 <div align="center">
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=50&lines=%24+whoami;Piyush+Sharma+%E2%80%94+AI%2FML+%2B+Full-Stack+Engineer;%24+cat+status.txt;Building+%40+Kaizen+Training+Solutions+%7C+Gurugram%2C+India;%24+git+log+--author%3Downasp+--grep%3Dmerged;Shipped+a+security+PR+into+OWASP%2FNest" alt="terminal typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=45&lines=%24+whoami;Building+%40+Kaizen+Training+Solutions+%7C+Gurugram%2C+India;%24+git+log+--author%3Downasp+--grep%3Dmerged;Shipped+a+security+PR+into+OWASP%2FNest" alt="terminal typing animation" />
 
 <br/>
 
-<img src=".assets/ascii-portrait.gif" width="360" alt="ASCII portrait scan" />
+<table>
+<tr><td align="left">🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>operator@scienhac:~$ whoami --render-ascii</code></td></tr>
+<tr><td align="center"><img src=".assets/ascii-portrait.gif" width="380" alt="ASCII portrait scan" /></td></tr>
+</table>
 
-<br/><br/>
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-141518?style=flat-square&logo=vercel&logoColor=A78BFA)](https://piyush.inerate.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-141518?style=flat-square&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/piyush-078455221/)
@@ -18,19 +19,59 @@
 [![X](https://img.shields.io/badge/X-141518?style=flat-square&logo=x&logoColor=A78BFA)](https://x.com/scienhac)
 [![Email](https://img.shields.io/badge/Email-141518?style=flat-square&logo=gmail&logoColor=A78BFA)](mailto:piyush@inerate.com)
 
+<br/><br/>
+
+![Status](https://img.shields.io/badge/status-open_to_collabs-141518?style=flat-square&logo=googlemeet&logoColor=A78BFA)
+![Location](https://img.shields.io/badge/gurugram,_india-141518?style=flat-square&logo=mapbox&logoColor=A78BFA)
+![OWASP](https://img.shields.io/badge/OWASP%2FNest-merged_PR-141518?style=flat-square&logo=owasp&logoColor=A78BFA)
+![SIH](https://img.shields.io/badge/smart_india_hackathon-national_finalist-141518?style=flat-square&logo=starship&logoColor=A78BFA)
+![LeetCode](https://img.shields.io/badge/leetcode-372_solved-141518?style=flat-square&logo=leetcode&logoColor=A78BFA)
+
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1730,100:6D5BD0&height=2&section=header" width="100%" alt=""/>
 
-### <img src=".assets/icons/terminal.svg" width="22" valign="middle"/> `01` About
+## <img src=".assets/icons/terminal.svg" width="30" valign="middle"/>&nbsp; `01` About
+
+<table width="100%">
+<tr>
+<td width="66%" valign="top">
 
 AI/ML and full-stack engineer working across production web, applied ML, and IoT. Started with Kali Linux exploits in 2021; now shipping payment-integrated SaaS at **Kaizen Training Solutions** and researching EEG-based emotion recognition at **Krea University**.
 
 *Comfortable moving between a FastAPI training pipeline, a Next.js checkout flow, and a merged PR into an OWASP Foundation repo — in the same week.*
 
-<br/>
+- 🛡️ Merged a security-hardening PR into **[OWASP/Nest](https://github.com/OWASP/Nest)** — GraphQL introspection lockdown, HSTS, security headers
+- 🧠 EEG emotion recognition research at Krea University — **87% accuracy** across 15k+ samples
+- 🏆 Smart India Hackathon — **National Finalist**, Hardware/IoT track
+- 💳 Shipped Razorpay-integrated production features serving **200+ concurrent users** at zero downtime
 
-### <img src=".assets/icons/signal.svg" width="22" valign="middle"/> `02` Now
+</td>
+<td width="34%" valign="top">
+
+<table width="100%">
+<tr><td align="left"><code>&nbsp;fact_sheet.json</code></td></tr>
+<tr><td>
+
+```yaml
+role:     AI/ML + Full-Stack
+based_in: Gurugram, India
+current:  Kaizen Training Solutions
+focus:    web · applied ML · IoT
+leetcode: 372 solved (59 hard)
+oss:      1 merged (OWASP/Nest)
+```
+
+</td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1730,100:6D5BD0&height=2&section=header" width="100%" alt=""/>
+
+## <img src=".assets/icons/signal.svg" width="30" valign="middle"/>&nbsp; `02` Now
 
 | Period | Role | Focus |
 |---|---|---|
@@ -39,9 +80,9 @@ AI/ML and full-stack engineer working across production web, applied ML, and IoT
 | Jun – Aug 2025 | Research Intern · Krea University | EEG emotion recognition — 87% accuracy on 15k+ samples |
 | 2025 | Finalist · Smart India Hackathon | Smart-Vitals — IoT health monitoring |
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1730,100:6D5BD0&height=2&section=header" width="100%" alt=""/>
 
-### <img src=".assets/icons/shield.svg" width="22" valign="middle"/> `03` Open Source
+## <img src=".assets/icons/shield.svg" width="30" valign="middle"/>&nbsp; `03` Open Source
 
 Real diffs into other people's repos — not forks sitting idle.
 
@@ -50,9 +91,9 @@ Real diffs into other people's repos — not forks sitting idle.
 | **[OWASP/Nest](https://github.com/OWASP/Nest)** — nonprofit foundation repo | [`#3799`](https://github.com/OWASP/Nest/pull/3799) — hardened production settings: GraphQL introspection lockdown, HSTS, security headers | ✅ **merged** |
 | **[opennextjs/opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare)** ★ 1.8k+ | [`#1280`](https://github.com/opennextjs/opennextjs-cloudflare/pull/1280) / [`#1309`](https://github.com/opennextjs/opennextjs-cloudflare/pull/1309) — Next.js 16 Node.js middleware (`proxy.ts`) support | 🔄 in review |
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1730,100:6D5BD0&height=2&section=header" width="100%" alt=""/>
 
-### <img src=".assets/icons/grid.svg" width="22" valign="middle"/> `04` Featured Work
+## <img src=".assets/icons/grid.svg" width="30" valign="middle"/>&nbsp; `04` Featured Work
 
 <table width="100%">
 <tr>
@@ -91,11 +132,23 @@ Real diffs into other people's repos — not forks sitting idle.
 <img src="https://img.shields.io/badge/Dart-141518?style=flat-square&logo=dart&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/Flutter-141518?style=flat-square&logo=flutter&logoColor=A78BFA" />
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/ScienHAC/object-sorting-Rarm">object-sorting-Rarm</a></h4>
+<p>Embedded robotic arm control for automated object sorting (PlatformIO/C++).</p>
+<img src="https://img.shields.io/badge/C++-141518?style=flat-square&logo=cplusplus&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/PlatformIO-141518?style=flat-square&logo=platformio&logoColor=A78BFA" />
+</td>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/ScienHAC?tab=repositories">32 public repos ↗</a></h4>
+<p>The rest — bots, IoT experiments, research notebooks, and older web projects.</p>
+<img src="https://img.shields.io/badge/browse_all-141518?style=flat-square&logo=github&logoColor=A78BFA" />
+</td>
+</tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1730,100:6D5BD0&height=2&section=header" width="100%" alt=""/>
 
-### <img src=".assets/icons/chip.svg" width="22" valign="middle"/> `05` Stack
+## <img src=".assets/icons/chip.svg" width="30" valign="middle"/>&nbsp; `05` Stack
 
 <div align="center">
 
@@ -129,9 +182,9 @@ Real diffs into other people's repos — not forks sitting idle.
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1730,100:6D5BD0&height=2&section=header" width="100%" alt=""/>
 
-### <img src=".assets/icons/chart.svg" width="22" valign="middle"/> `06` Stats
+## <img src=".assets/icons/chart.svg" width="30" valign="middle"/>&nbsp; `06` Stats
 
 <div align="center">
 
@@ -143,6 +196,15 @@ Real diffs into other people's repos — not forks sitting idle.
 
 <img src="https://leetcard.jacoblin.cool/scienhac?theme=dark&font=JetBrains%20Mono&extension=activity" />
 
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ScienHAC&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ScienHAC&theme=github_dark" width="49%" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ScienHAC&theme=react-dark&hide_border=true&bg_color=0A0A0B&color=9B9B98&line=A78BFA&point=F5F5F3&area=true&area_color=A78BFA" />
+
 </div>
 
 <br/>
@@ -151,4 +213,6 @@ Real diffs into other people's repos — not forks sitting idle.
 <sub>372 LeetCode problems solved (115 Easy · 198 Medium · 59 Hard) · 1 merged PR into an OWASP Foundation repo · building in public from Gurugram, India</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0B&height=3&section=footer" width="100%" alt=""/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,C4B5FD,45,6D5BD0,100,1C1730&height=110&section=footer&text=built+in+public+from+gurugram,+india&fontSize=13&fontColor=F5F5F3&fontAlign=50&fontAlignY=75" width="100%" alt="footer"/>
